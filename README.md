@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Romeo%20Erika&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=54&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Romeo%20Erika&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Full-Stack%20%26amp%3B%20Mobile%20Developer&descAlignY=54&descSize=20" alt="header" />
 
 <a href="https://github.com/daromsartof">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Node.js;Marketplaces%2C+delivery+apps+and+business+CRMs;Monorepos%2C+clean+architecture%2C+shipped+products;Building+real+software+from+Madagascar+%F0%9F%87%B2%F0%9F%87%AC" alt="Typing SVG" />
