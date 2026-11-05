@@ -25,7 +25,7 @@ I'm a full-stack and mobile developer who ships **complete products**, not demos
 - 🚚 And **Noïz Logistics**, a logistics platform (Express + Firebase API, React dashboard)
 - 🤖 Also spend a lot of time on applied AI: **RAG pipelines, OCR, document classification, intelligent scraping**
 - 🧰 Comfortable across the stack: TypeScript, Python and PHP; React, React Native, Next.js, FastAPI, Prisma, Firebase
-- 📫 Reach me at **romeoerika.razaka@gmail.com**
+- 📫 Reach me at **[daromsart](https://daromsart.xyz/)**
 
 ---
 
